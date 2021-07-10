@@ -369,6 +369,10 @@
         <translation>Адрес</translation>
     </message>
     <message>
+        <source>Available:</source>
+        <translation>Доступно:</translation>
+    </message>
+    <message>
         <source>Exporting Failed</source>
         <translation>Экспорт не удался</translation>
     </message>

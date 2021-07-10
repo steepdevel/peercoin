@@ -10,6 +10,10 @@
         <translation>Создать новый адрес</translation>
     </message>
     <message>
+        <source>Pending:</source>
+        <translation>Ожидание:</translation>
+    </message>
+    <message>
         <source>&amp;New</source>
         <translation>&amp;Новый</translation>
     </message>

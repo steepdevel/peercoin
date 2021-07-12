@@ -124,7 +124,7 @@ public:
          vSeeds.emplace_back("91.239.69.78");
          vSeeds.emplace_back("45.155.207.187");
          vSeeds.emplace_back("37.235.144.35");
-         vSeeds.emplace_back("37.235.144.15");
+         vSeeds.emplace_back("37.235.141.15");
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,125);  // steepcoin: addresses begin with 'P'
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,63); // steepcoin: addresses begin with 'p'
